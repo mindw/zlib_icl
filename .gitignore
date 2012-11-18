@@ -1,0 +1,9 @@
+*.manifest
+*.res
+*.pdb
+*.obj
+*.dll
+*.lib
+*.exp
+*.exe
+_b
